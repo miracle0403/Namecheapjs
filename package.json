@@ -1,0 +1,23 @@
+{
+  "name": "namecheapjs",
+  "version": "1.0.0",
+  "description": "A simple namecheap api for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "namecheap api",
+    "namecheap nodejs",
+    "namecheap js",
+    "namecheapjs",
+    "namecheap npm",
+    "node-namecheap"
+  ],
+  "author": "Miracle Lawrence",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "xml-js": "^1.6.11"
+  }
+}
